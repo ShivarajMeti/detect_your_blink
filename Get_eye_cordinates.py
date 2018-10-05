@@ -167,3 +167,5 @@ with open('data_eye_cordinates.pickle','wb') as f:
 	pickle.dump(data,f)
 cv2.destroyAllWindows()
 vs.stop()
+
+
